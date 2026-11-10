@@ -22,6 +22,6 @@
 
 | Ảnh | Tình huống | Quyết định cuối | Lý do theo schema |
 | --- | --- | --- | --- |
-| `drive_...` | | | |
-| `drive_...` | | | |
-| `drive_...` | | | |
+| `drive_016` | Xe ở phía trước không rõ là car hay van | van | Hình khối hộp có vẽ gần nhất với van |
+| `drive_021` | Đuôi xe bị khuất không rõ car hay van | car | Dựa theo đầu xe và tính năng chở khách loại nhỏ |
+| `drive_026` | Một chiếc xe trắng và xanh quá mờ không thể xác định rõ | Escalate sau | Các tính chất xe không rõ ràng |
